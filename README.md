@@ -1,7 +1,7 @@
-## Codelab - Nome da Apresentação
+## Talk - Firebase - Introdução à plataforma
 
 ### Descrição
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque ullamcorper accumsan. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Vivamus iaculis mollis lobortis. Vivamus quis ex nec urna fermentum rhoncus vel ac orci.
+Material usado na apresentação, código e apresentação
 
 ### Palestrante(s)
-- [ SEU NOME ](URL_PERFIL_OU_GIT)
+- [Danilo Abranches](https://github.com/daniloabranches)
